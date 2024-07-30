@@ -3,17 +3,7 @@ A pixel Art & Animation Creation Tool Built using HTML5 Canvas.
 It is a Progressive Web App (PWA) with offline compatibility.  
 It is mobile-friendly and is very easy to use.  
 
-## Overview
-On opening, you will get a screen as Follows
-
-![PixelBloom overview](images/overview.png)
-
-You can choose Any Dimensions for your Canvas, *16 X 16* is the default dimension.  
-Dimensions below *128 X 128* are preferable for smooth operation and GIF creation.
-
 ## Toolbar
-
-![PixelBloom overview](images/toolbar.png)
 
 The List Of all Tools and methods to use them are as follows
 
@@ -133,17 +123,7 @@ You can select any color by clicking on it.
 You can also set color Transparency to create translucent colors and create color combinations. This property can be used to create complex patterns with greater flexibility.
 **Right click on color to set transparency value between 0 and 1**
 
-Thanks to [@mrfoogles](https://github.com/mrfoogles) for this fix [#41](https://github.com/rgab1508/PixelCraft/pull/41)
-
 ![Complex Pattern](https://user-images.githubusercontent.com/17960677/96028936-95ad6d00-0e77-11eb-8a8c-07caa0f2a8b5.jpg)
-
-## PWA Support
-
-This Web App is a Fully Compatible PWA and is installable.  
-
-![PWA Support](https://user-images.githubusercontent.com/17960677/96029402-3ef46300-0e78-11eb-8a54-d54b6dff458a.png)
-
-You can install it either from the Dropdown or using the "Add to Home Screen" Button From Options.  
 
 ## Some Pixel Arts Made with PixelCraft
 
