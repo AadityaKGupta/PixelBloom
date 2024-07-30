@@ -102,12 +102,6 @@ This Tool is Used to import an image and convert it to Pixel Art of Given Dimens
 
 Save Image option is available in the Drop-down on top left corner, It will download a file named *canvas.png* with dimensions *10 x width X 10 x Height*
 
-### Saving GIF
-
-After making all the frames and making necessary changes in Frames Panel, you can export the GIF using option present in Dropdown. The dimensions will be same as that of image.
-
-Thanks to [@eagleloid](https://github.com/eagleloid) for this fix [#44](https://github.com/rgab1508/PixelCraft/pull/44)
-
 ## Color Palette & Transparency
 
 The Following colors are available on the color Palette.
